@@ -1,0 +1,12 @@
+flickr:
+  api_key: "get from flickr"
+  shared_secret: "shared secret"
+  access_token: "mover will add that later"
+  access_secret: "mover will add that"
+
+500px:
+  login: "your 500px login"
+  password: "your 500px password"
+
+
+include_private: false
